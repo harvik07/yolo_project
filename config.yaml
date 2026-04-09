@@ -1,0 +1,12 @@
+camera:
+  width: 640
+  height: 480
+  fps: 30
+
+detection:
+  confidence_threshold: 0.5
+  iou_threshold: 0.4
+
+display:
+  show_fps: true
+  window_name: "CV Project"
