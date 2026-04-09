@@ -51,6 +51,14 @@ pip install -r requirements.txt
 ```
 
 ---
+If you just want to test the project quickly without setting anything up:
+
+    python script.py
+👉 This will:
+
+Automatically load a pre-included demo video
+Start detecting and tracking people
+Show time spent for each person
 
 ## 🔧 Configuration
 
